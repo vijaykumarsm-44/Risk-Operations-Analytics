@@ -576,5 +576,3 @@ ORDER BY Total_Premium DESC;
 -- ================================================================
 -- END OF PROJECT
 -- ================================================================
-
-PRINT 'Risk Operations Analytics SQL Portfolio Project Completed Successfully';
