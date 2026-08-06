@@ -118,13 +118,7 @@ Risk-Operations-Analytics/
 
 # 📷 Dashboard Preview
 
-> Add your Power BI Dashboard screenshot here after uploading.
-
-Example:
-
-```
-Screenshots/Dashboard.png
-```
+![Risk Operations Dashboard](Screenshots/Dashboard.png)
 
 ---
 
