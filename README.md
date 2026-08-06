@@ -31,13 +31,13 @@ The project analyzes operational case data to generate business insights related
 
 ### Query 24 – Claim Ratio Analysis
 
-![Query 24](Screenshots/Query_24_Claim_Ratio.png)
+![Query 24](Screenshots/Query_24_Claim_Ratio_By_Region.png)
 
 ---
 
 ### Query 28 – Executive KPI Summary
 
-![Query 28](Screenshots/Query_28_Executive_KPI.png)
+![Query 28](Screenshots/Query_28_Executive_KPI_Summary.png)
 
 ---
 
