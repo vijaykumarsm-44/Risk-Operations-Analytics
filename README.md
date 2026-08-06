@@ -8,6 +8,12 @@ The project analyzes operational case data to generate business insights related
 
 ---
 
+# 📷 Dashboard Preview
+
+![Risk Operations Dashboard](Screenshots/Dashboard.png)
+
+---
+
 # 🎯 Business Problem
 
 Insurance companies process thousands of operational cases every day. Management requires timely insights to monitor:
@@ -112,13 +118,6 @@ Risk-Operations-Analytics/
 ├── Power_BI_Risk_Operations_Practice.xlsx
 ├── Business_Insights.md
 └── Screenshots/
-```
-
----
-
-# 📷 Dashboard Preview
-
-![Risk Operations Dashboard](Screenshots/Dashboard.png)
 
 ---
 
