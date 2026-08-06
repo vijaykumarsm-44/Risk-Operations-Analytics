@@ -15,6 +15,31 @@ The project analyzes operational case data to generate business insights related
 </p>
 
 ---
+## 🗄️ SQL Query Screenshots
+
+### Query 1 – Total Cases
+
+![Query 1](Screenshots/Query_01_Total_Cases.png)
+
+---
+
+### Query 17 – ROW_NUMBER()
+
+![Query 17](Screenshots/Query_17_ROW_NUMBER.png)
+
+---
+
+### Query 24 – Claim Ratio Analysis
+
+![Query 24](Screenshots/Query_24_Claim_Ratio.png)
+
+---
+
+### Query 28 – Executive KPI Summary
+
+![Query 28](Screenshots/Query_28_Executive_KPI.png)
+
+---
 
 # 🎯 Business Problem
 
