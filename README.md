@@ -8,9 +8,11 @@ The project analyzes operational case data to generate business insights related
 
 ---
 
-# 📷 Dashboard Preview
+## 📊 Dashboard Preview
 
-![Risk Operations Dashboard](Screenshots/Dashboard.png)
+<p align="center">
+  <img src="Screenshots/Dashboard.png" width="1000">
+</p>
 
 ---
 
